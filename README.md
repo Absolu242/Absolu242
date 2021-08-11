@@ -2,8 +2,9 @@
 
 - 👋 Hi, I’m Rahan Bouess 
 - 👀 I’m interested in Frontend Development , Business and IT in general 
-- 🌱 I’m currently learning Mobile development and Project management
-- 💞️ I’m looking to connect with great people 
+      And Spend most of my time buiding Websites and Web applications
+- 🌱 Currently learning TypeScript , GraphQL and Project management
+- 💞️ I like to connect with  people around the world 
 - 📫 How to reach me : rahanbouess@outlook.com , IG: @rahanbouess
 
 
