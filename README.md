@@ -5,7 +5,7 @@
       And Spend most of my time buiding Websites and Web applications
 - 🌱 Currently learning TypeScript , GraphQL and Project management
 - 💞️ I like to connect with  people around the world 
-- 📫 How to reach me : rahanbouess@outlook.com , IG: @rahanbouess
+- 📫 How to reach me : rahanbouess@outlook.com , Linkedin: rahan bakala bouess
 
 
 <!---
